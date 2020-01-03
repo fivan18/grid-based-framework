@@ -1,0 +1,28 @@
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.well {
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+.h-500 {
+    max-height: 500px;
+}
+.h-10 {
+    height: 10px;
+}
+.h-20 {
+    height: 20px;
+}
+.h-30 {
+    height: 30px;
+}
+.h-40 {
+    height: 40px;
+}
+.greater-size {
+    height: 130px;
+    background-color: yellow;
+}
