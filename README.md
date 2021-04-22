@@ -4,7 +4,7 @@
     <img src="screenshots/grid.PNG">
 </p>
 
-The framework's grid system uses rows and columns to layout content, it’s built with float technique and uses media queries to gracefully degrade the site as the window size is reduced.
+The framework's grid system uses rows and columns to layout content, it’s built with the float technique and uses media queries to gracefully degrade the site as the window size is reduced.
 
 It works like Twitter's Bootstrap framework with a litle difference: the breack points (col-breakPoint-cellsPerItem)
 
